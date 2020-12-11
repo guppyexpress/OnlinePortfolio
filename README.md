@@ -1,1 +1,1 @@
-# website2
+This website is an about me site that is a collective of links to all my finished projects for people to see, it also includes some information about me and some of my hobbies. the unfinished projects are not posted because i dont want someone else to steal my game ideas before me.
