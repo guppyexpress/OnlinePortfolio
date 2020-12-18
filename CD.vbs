@@ -1,4 +1,3 @@
-do
 Dim ts
 Dim strDriveLetter
 Dim intDriveLetter
@@ -28,4 +27,3 @@ Next 'null
 
 set owmp = nothing
 set colCDROMs = nothing
-loop
